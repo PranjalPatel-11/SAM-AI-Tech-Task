@@ -1,0 +1,101 @@
+Cuisines,Restaurant_Count,Average_Rating
+Modern Indian,11,4.345454545454545
+Indian,18,4.25
+Seafood,14,4.114285714285715
+"Cafe, Continental, Italian",18,4.111111111111111
+Thai,16,4.1
+"American, Burger",16,4.06875
+"Japanese, Sushi",20,4.0600000000000005
+"Bakery, Cafe, Desserts",11,4.027272727272727
+"Asian, Chinese, Thai",19,3.7736842105263158
+"Chinese, Japanese, Thai",11,3.6727272727272724
+American,31,3.667741935483871
+Italian,54,3.6574074074074074
+"Italian, Pizza",43,3.6511627906976742
+"Cafe, Desserts",12,3.641666666666667
+"Continental, Healthy Food",10,3.6399999999999997
+Mexican,36,3.636111111111111
+"Cafe, Italian",13,3.630769230769231
+"Cafe, Chinese, North Indian",14,3.6214285714285714
+"Chinese, Continental, Italian, North Indian",37,3.6054054054054054
+"Asian, Continental, North Indian",19,3.6
+"Continental, Italian",19,3.5842105263157893
+"Cafe, Continental",13,3.569230769230769
+Continental,21,3.566666666666667
+"Chinese, Fast Food, Italian, North Indian",12,3.5583333333333336
+Japanese,17,3.5352941176470587
+"Biryani, Mughlai, North Indian",14,3.507142857142857
+"Chinese, Desserts, Fast Food, Mithai, North Indian, South Indian, Street Food",15,3.48
+"Asian, Chinese",14,3.457142857142857
+"Cafe, Fast Food",19,3.4473684210526314
+"Cafe, Tea",21,3.4095238095238094
+"American, Fast Food",22,3.3863636363636362
+"Continental, Italian, North Indian",32,3.3375
+"Bakery, Desserts, Fast Food",69,3.3217391304347825
+"Chinese, Thai",54,3.3185185185185184
+"Continental, North Indian",41,3.3146341463414637
+"Burger, Fast Food",99,3.3020202020202016
+Asian,18,3.2555555555555555
+"Chinese, Continental, Mughlai, North Indian",14,3.207142857142857
+"Bakery, Cafe",19,3.1473684210526316
+"Burger, Desserts, Fast Food",22,3.1363636363636362
+"American, Burger, Fast Food",15,3.1
+"Chinese, Italian, North Indian",33,3.090909090909091
+"Chinese, Continental, North Indian",107,3.0261682242990657
+"Fast Food, Italian, Pizza",41,2.9560975609756097
+"Mithai, North Indian, South Indian, Street Food",12,2.9166666666666665
+"American, Fast Food, Healthy Food, Salad",63,2.907936507936508
+"Desserts, Ice Cream",109,2.8990825688073394
+Cafe,299,2.890969899665552
+Finger Food,49,2.8755102040816327
+"Desserts, Fast Food",10,2.87
+"Chinese, Mithai, North Indian, South Indian, Street Food",16,2.8625
+"Chinese, North Indian, Street Food",11,2.854545454545455
+"Bakery, Chinese, Fast Food",12,2.783333333333333
+"Mughlai, North Indian",394,2.767258883248731
+"Fast Food, South Indian",11,2.7545454545454544
+"Beverages, Desserts",16,2.73125
+Desserts,53,2.7150943396226417
+Healthy Food,15,2.7133333333333334
+"North Indian, Street Food",34,2.6999999999999997
+"Chinese, Fast Food, North Indian",102,2.6401960784313725
+"Fast Food, North Indian, Raw Meats",57,2.6210526315789475
+"Chinese, Mughlai, North Indian",306,2.619934640522876
+"Chinese, Fast Food, North Indian, South Indian",31,2.606451612903226
+"Fast Food, Pizza",142,2.582394366197183
+"Chinese, Fast Food, Mughlai, North Indian",10,2.58
+Beverages,54,2.4833333333333334
+"Fast Food, Italian",17,2.4588235294117644
+"Chinese, Tibetan",18,2.45
+"Bakery, Fast Food",117,2.411965811965812
+"Biryani, North Indian",33,2.409090909090909
+"Fast Food, North Indian",120,2.4033333333333333
+"Desserts, Street Food",10,2.3899999999999997
+"Bakery, Desserts",181,2.3756906077348066
+South Indian,112,2.3705357142857144
+"Beverages, Fast Food",59,2.3457627118644067
+"Chinese, North Indian",616,2.3334415584415584
+"Fast Food, North Indian, South Indian",17,2.3117647058823527
+"Bengali, North Indian",10,2.23
+"Chinese, South Indian",45,2.2244444444444444
+Pizza,53,2.207547169811321
+"Chinese, North Indian, South Indian",135,2.205185185185185
+"Biryani, Mughlai",25,2.18
+Street Food,149,2.1617449664429533
+Fast Food,354,2.118361581920904
+Ice Cream,74,2.09054054054054
+"Chinese, Fast Food",159,2.069811320754717
+"North Indian, South Indian",54,2.0592592592592593
+Chinese,354,2.042090395480226
+"Fast Food, Street Food",27,1.9333333333333333
+Bakery,218,1.9243119266055047
+"Mithai, South Indian, Street Food",10,1.92
+"Mithai, Street Food",134,1.9029850746268657
+"Mithai, North Indian, Street Food",14,1.8928571428571428
+"Mithai, North Indian",10,1.83
+"Fast Food, Raw Meats",45,1.7933333333333334
+North Indian,936,1.6723290598290599
+Mithai,71,1.6267605633802817
+Mughlai,103,1.5640776699029126
+"Chinese, Fast Food, South Indian",10,1.49
+Biryani,54,1.3981481481481481
