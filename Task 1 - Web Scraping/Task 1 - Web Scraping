@@ -1,0 +1,8 @@
+# Task 1 - Web Scraping
+
+This task demonstrates web scraping using Python, Requests, BeautifulSoup, and Pandas.
+
+## Contents
+
+- Task_1_Web_Scraping.ipynb
+- task1_web_scraped_dataset.csv
